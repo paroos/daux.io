@@ -20,6 +20,9 @@
         "symfony/finder": "~2.7",
         "webuni/commonmark-table-extension": "0.4.*"
     },
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "*"
+    },
     "autoload": {
         "psr-4": {
             "Todaymade\\Daux\\Extension\\": "daux/",
